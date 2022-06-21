@@ -1,21 +1,23 @@
 # IBM LERT Backend 🖱
-**Dentro de este repositorio se estará guardando todo lo que se esté trabajando para el desarrollo del proyecto de la materia Despliegue y Desarrollo de Sistemas de Software**
+**In this repository, everything that is developed for the project of the class Deployment and Development of Software Systems will be saved**
 <br>
-La página web LERT es una herramienta que permite a diferentes empleados de IBM llevar a cabo procesos relacionados con la recuperación de gastos de la Unidad de Negocios CIO. Dentro de esta se pueden consultar aspectos como:
-- Generación y visualización de reportes de gastos
-- Estadísticas de gastos
-- Recuperación de recursos y gastos adicionales (crusos, certificaciones, etc)
 
-## Tecnologías y Conocimientos ⌨
+LERT web page is a tool that allows different IBM employees to carry out processes related to the recovery of expenses of the CIO Business Unit. Within this recovery, some aspects that are included are:
+
+- Generation and visualization of expense reports
+- Expense statistics
+- Recovery of resources and additional expenses (cruises, certifications, etc.)
+
+## Technologies and Knowledge ⌨
 - Flask
-- SQL / SQLAlchemy
+- SQL/SQLAlchemy
 - Docker
 - IBM Cloud / DB2
 - Jira
-- Confluence
+-Confluence
 
-## Autores
+## Authors
 - Brenda Castillo
-- Rafael Gómez
+- Rafael Gomez
 - Natalia Velasco
 
